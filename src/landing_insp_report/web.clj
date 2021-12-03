@@ -5,7 +5,7 @@
    [landing-insp-report.handler :as blog]))
 
 (defn -main [& args]
-  (let [port 3000]
+  (let [port 9090]
     (jetty/run-jetty (ch/site #'blog/app)
                      {:port port
                       :join? false})))

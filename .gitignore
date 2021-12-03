@@ -11,3 +11,12 @@ pom.xml.asc
 .calva
 .clj-kondo
 .lsp
+footer.txt
+logo.txt
+notes.txt
+src/landing_insp_report/images.clj
+src/landing_insp_report/refer.clj
+resources/public/logo.png
+test.html
+test.pdf
+
